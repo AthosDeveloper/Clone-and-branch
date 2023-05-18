@@ -1,0 +1,8 @@
+public class Somar{
+public static void main(String[] args){ 
+int number1 = 14;
+int number2 = 15;
+int age = number1 + number2;
+System.out.printf("esta é minha idade \n %d ", age);
+}
+} 
