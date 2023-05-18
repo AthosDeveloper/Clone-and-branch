@@ -6,3 +6,4 @@ int age = number1 + number2;
 System.out.printf("esta é minha idade \n %d ", age);
 }
 } 
+//não sei se vai funcionar, pois não instalei o jdk ainda e nem uma IDE.
